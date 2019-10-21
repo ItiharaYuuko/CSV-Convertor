@@ -6,7 +6,9 @@
     
 >    Usage 1: python csvConvertor.py [csv files...] [xlsx filename]
 
->            eg: python csvConvertor.py first.csv second.csv third.csv xlsxObject
+>            eg:
+             
+>            **user path** > python csvConvertor.py first.csv second.csv third.csv xlsxObject
 
 >            attention: Arguments split by space.
 
@@ -14,7 +16,7 @@
 
 >            use shell change dirctory to the path.
 
->            username>_ python csvConvertor.py
+>            **user path**>_ python csvConvertor.py
 
 >            insert the xlsx filename for done.
 
